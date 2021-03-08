@@ -1,0 +1,116 @@
+.header {
+    position: absolute;
+    height: 190px;
+    width: 1920px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background: rgba(250, 246, 246, 1);
+    box-shadow: 0px 6px 20px 0px rgba(96, 44, 44, 0.2);
+}
+
+.logo {
+    position: absolute;
+    width: 90px;
+    height: 72px;
+    left: 0px;
+    top: 0px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 72px;
+    color: #000000;
+    top: 20px;
+    left: 60px;
+    right: 1770px;
+    bottom: 98px;
+}
+
+.logo_item {
+    position: absolute;
+    width: 270px;
+    height: 44px;
+    left: 0px;
+    top: 82px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #989898;
+    top: 102px;
+    left: 60px;
+    right: 1590px;
+    bottom: 44px;
+}
+
+.icons_menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    position: absolute;
+    width: 314px;
+    height: 54px;
+    left: 1546px;
+    top: 94px;
+}
+
+.icon_item1 {
+    position: static;
+    left: 0%;
+    right: 0%;
+    top: 59.26%;
+    bottom: 0%;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    color: #25252D;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.icon_item2 {
+    position: static;
+    left: 0%;
+    right: 0%;
+    top: 59.26%;
+    bottom: 0%;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    color: #25252D;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+}
+
+.icon_item3 {
+    position: static;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    color: #25252D;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 0px;
+    height: 22px;
+    top: 126px;
+    left: 1801px;
+    right: 60px;
+    bottom: 42px;
+}
